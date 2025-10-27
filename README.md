@@ -3,9 +3,9 @@
 int main () {  
 int a, b , i , temp , x , y ;  
 printf("saisir le premier nombre :") ;   
-scanf("%d",&amp;a);    
+scanf("%d",&a);    
 printf("saisir le deuxieme nombre :") ;    
-scanf("%d",&amp;b);    
+scanf("%d",&b);    
 x=a ; y=b ;    
 while(b!=0) {       
 temp=a%b ;      
