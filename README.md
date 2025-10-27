@@ -1,5 +1,5 @@
 # algorithm_d_euclide
-#include&lt;stdio.h> 
+#include<stdio.h> 
 int main () {  
 int a, b , i , temp , x , y ;  
 printf("saisir le premier nombre :") ;   
